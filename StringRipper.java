@@ -1,8 +1,5 @@
-//© A+ Computer Science  -  www.apluscompsci.com
-//Name -
-//Date -
-//Class -
-//Lab  -
+//A+ Computer Science  -  www.apluscompsci.com
+// Remember to include the proper documentation
 
 import static java.lang.System.*;
 
