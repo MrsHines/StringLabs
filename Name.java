@@ -1,11 +1,4 @@
-//© A+ Computer Science  -  www.apluscompsci.com
-//Name -
-//Date -
-//Class -
-//Lab  -
-
-import static java.lang.System.*;
-
+// Remember to include the proper documentation
 public class Name
 {
 	private String name;
@@ -18,9 +11,9 @@ public class Name
 	{
 	}
 
-   public void setName(String s)
-   {
-   }
+  	public void setName(String s)
+   	{
+   	}
 
 	public String getFirst()
 	{
